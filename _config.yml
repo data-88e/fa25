@@ -1,0 +1,131 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole site, values
+# which you are expected to set up once and rarely edit after that. If you find
+# yourself editing these this file very often, consider using Jekyll's data files
+# feature for the data you need to update frequently.
+#
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'jekyll serve'. If you change this file, please restart the server process.
+
+# Site settings
+# These are used to personalize your new site. If you look in the HTML files,
+# you will see them accessed via {{ site.title }}, {{ site.github_repo }}, and so on.
+# You can create any custom variable you would like, and they will be accessible
+# in the templates via {{ site.myvariable }}.
+title: Data 88E
+description: Economic Models
+author: Eric Van Dusen
+baseurl: '/fa25' # the subpath of your site, e.g. /blog
+url: 'https://data88e.org/' # the base hostname & protocol for your site, e.g. http://example.com
+
+course_department: dsus
+class_archive_path: /
+course: Data 88E 
+course_email:
+semester: fa25
+course_logo_path: logo.png
+logo: logo.png
+
+# Theme settings
+theme: just-the-docs
+color_scheme: light
+search_enabled: true
+heading_anchors: true
+permalink: pretty
+aux_links:
+  Ed:
+    - 'https://edstem.org/'
+  Gradescope:
+    - 'https://www.gradescope.com/'
+  Textbook:
+    - 'https://data88e.org/textbook/content/intro.html'
+  Data 8 Python Reference:
+    - 'https://www.data8.org/fa23/reference/'
+footer_content:
+
+# Collections for website data
+collections:
+  staffers:
+    sort_by: name
+  modules:
+  announcements:
+  calendars:
+# Default layouts for each collection type
+defaults:
+  - scope:
+      path: ''
+      type: staffers
+    values:
+      layout: staffer
+      height: 300
+      subpath: '/assets/images/'
+      width: 300
+  - scope:
+      path: ''
+      type: modules
+    values:
+      layout: module
+  - scope:
+      path: ''
+      type: calendars
+    values:
+      layout: calendar
+  - scope:
+      path: ''
+      type: announcements
+    values:
+      layout: announcement
+
+footer_content: true
+back_to_top: true
+back_to_top_text: "Back to Top"
+last_edit_timestamp: true
+last_edit_time_format: '%m %d, %Y at %H:%M'
+
+compress_html:
+  clippings: all
+  comments: all
+  endings: all
+  startings: []
+  blanklines: false
+  profile: false
+
+timezone: America/Los_Angeles
+
+include:
+  - LICENSE
+  - .htaccess
+  - robots.txt
+
+exclude:
+  - .sass-cache/
+  - .jekyll-cache/
+  - gemfiles/
+  - Gemfile
+  - Gemfile.lock
+  - vendor/
+  - README.md
+  - CONTRIBUTING.md
+  - tmp/
+  - script/
+  - spec/
+  - node_modules/
+
+sass:
+  style: expanded
+  sass_dir: _sass
+  sourcemap: always
+  quiet_deps: true
+  verbose: false
+
+# The sitemap **must** be enabled. It's published as /baseurl/sitemap.xml
+plugins:
+  - jekyll-sitemap
+  - jekyll-seo-tag
+  - jekyll-github-metadata
+  - jekyll-include-cache
+  - jekyll-jupyter-notebook
+
+berkeley_theme_options:
+  show_logo_in_sidebar: true
