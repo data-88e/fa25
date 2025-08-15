@@ -17,7 +17,7 @@ title: Data 88E
 description: Economic Models
 author: Eric Van Dusen
 baseurl: '/fa25' # the subpath of your site, e.g. /blog
-url: 'https://data88e.org/' # the base hostname & protocol for your site, e.g. http://example.com
+url: 'https://data88e.org' # the base hostname & protocol for your site, e.g. http://example.com
 
 course_department: dsus
 class_archive_path: /
