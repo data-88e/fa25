@@ -14,12 +14,20 @@ description: A listing of all the course staff members.
 {% endfor %}
 
 {% assign teaching_assistants = site.staffers | where: 'role', 'Teaching Assistant' %}
+{% assign reader_tutor = site.staffers | where: 'role', 'Reader Tutor' %}
 {% assign num_teaching_assistants = teaching_assistants | size %}
 {% if num_teaching_assistants != 0 %}
 
 ## Teaching Assistants
 
 {% for staffer in teaching_assistants %}
+{{ staffer }}
+{% endfor %}
+{% endif %}
+
+## Reader / Tutor
+
+{% for staffer in reader_tutor %}
 {{ staffer }}
 {% endfor %}
 {% endif %}
