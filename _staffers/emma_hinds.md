@@ -1,7 +1,7 @@
 ---
 name: Emma Hinds
 role:  Reader Tutor
-email: emmahinds9@berkeley.edu
+email: emmahinds@berkeley.edu
 photo: Hinds.jpg
 ---
 
