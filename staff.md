@@ -25,6 +25,11 @@ description: A listing of all the course staff members.
 {% endfor %}
 {% endif %}
 
+
+{% assign reader_tutor = site.staffers | where: 'role', 'Reader Tutor' %}
+{% assign num_read_tutor = reader_tutor | size %}
+{% if num_reader_tutor != 0 %}
+
 ## Reader / Tutor
 
 {% for staffer in reader_tutor %}
