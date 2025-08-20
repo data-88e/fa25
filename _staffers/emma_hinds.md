@@ -1,6 +1,6 @@
 ---
 name: Emma Hinds
-role:  Reader
+role:  Teaching Assistant
 email: emmahinds9@berkeley.edu
 photo: Hinds.jpg
 ---
