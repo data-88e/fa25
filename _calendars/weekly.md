@@ -20,8 +20,17 @@ timeline:
   - '5:30 PM'
 schedule:
   - name: Monday
-
+    events:
+      - name: Office Hours - Emma
+        start: 12:00 PM
+        end: 2:00 PM
+        location: Warren 101-B A
   - name: Tuesday
+    events:
+      - name: Office Hours - Justin 
+        start: 4:00 PM
+        end: 6:00 PM
+        location: Warren 101-B A
   - name: Wednesday
     events:
       - name: Lecture
