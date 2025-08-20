@@ -42,7 +42,7 @@ The professor and course staff will hold office hours. See [the schedule](../sch
 
 ## Labs
 
-The weekly sessions will consist generally of two portions: a lecture-based portion in which the concepts of the week are laid out, and a lab-based portion in which the concepts are applied in a small-group setting.
+The weekly sessions will consist generally of two portions: a lecture-based portion in which the concepts of the week are laid out, and a lab-based portion in which we walk through Jupyter notebooks interactively. 
 
 We do not expect you to complete the lab in class; you are responsible for the completion of the lab in your own time and will take the place of homework assignments. **Labs will be graded on accuracy and not just completion.**
 
@@ -50,7 +50,7 @@ We do not expect you to complete the lab in class; you are responsible for the c
 
 The class will be run as much like a seminar as a regular class. Your participation is necessary to make this work. We will be expecting you to discuss during class, participate on Ed, and come to Office Hours. We need your feedback on our materials in order to improve them.
 
-Attendance will be factored into your grade. More information on tracking attendance will be coming during lecture.
+Attendance will be factored into your grade. Attendance will be take using PollEverywhere. Please use your Berkeley email to log into PollEV or your attendance may not be tracked. Sometimes the PollEV will require answering questions from the Lecture Notebooks - so you will be expected to open lecture notebooks in class.  
 
 ## Grades
 
@@ -60,7 +60,7 @@ Grades will be assigned using the following weighted components:
 - 40% Labs
 - 40% Projects
 
-Labs are due by Monday 11:59 PM the week after they are released. There are 10 labs and 4 projects. Labs, projects and attendances are weighted equally in their categories. You will have 2 attendance drops to be used at any time throughout the semester.
+Labs are due by Tuesday 11:59 PM the week after they are released. There are 10 labs and 4 projects. Labs, projects and attendances are weighted equally in their categories. You will have 2 attendance drops to be used at any time throughout the semester.
 
 ## Extensions
 
@@ -74,12 +74,7 @@ If you are a late-add, please make a private Ed post to request an extension for
 
 ## Late Policy & Regrades
 
-All labs and projects are due at 11:59pm on the day they are due. Students are allowed to submit labs and projects late, but will be penalized by 2 percentage points each hour that the assignment is late (rounded up to the nearest hour, up to a 100% penalty). For example:
-
-- An assignment submitted before the deadline will receive no penalty.
-- An assignment submitted 1 hour and 10 minutes after the deadline will receive a 4% penalty.
-- An assignment submitted 1 hour and 40 minutes after the deadline will receive a 4% penalty.
-- An assignment submitted 24 hours and 20 minutes after the deadline will receive a 50% penalty.
+All labs and projects are due at 11:59pm on the day they are due. Students are allowed to submit labs and projects late, but will be penalized by percentage points each hour that the assignment is late.  
 
 We will factor in late submissions when we're calculating grades at the end of the semester.
 
@@ -91,7 +86,7 @@ We encourage you to discuss course content with your friends and classmates as y
 
 ## Academic Honesty
 
-You must write your answers in your own words, and you must not plagiarize your completed work.
+You must write your answers in your own words, and you must not plagiarize your completed work. Do not copy paste generative AI in for written answers.  
 
 Make a serious attempt at every assignment yourself. If you get stuck, read the supporting code and lab discussion. After that, go ahead and discuss any remaining doubts with others, especially the course staff. That way you will get the most out of the course content.
 
