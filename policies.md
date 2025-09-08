@@ -66,7 +66,7 @@ Labs are due by Tuesday 11:59 PM the week after they are released. There are 10 
 
 If there are extenuating circumstances that necessitate an extension, please make a private Ed post saying why you want the extension as well as how much extra time you require. We shall get back to you as soon as possible. Extensions will only be granted for special circumstances beyond your control.
 
-Please submit any extension requests before the assignment deadline. We will not approve extensions requested after the deadline for the assignment has passed. Also, because extensions are not guaranteed, it is in your best interest to submit at least 36 hours before the deadline, to ensure that there's plenty of time for you to attempt the assignment if your request isn't accepted.
+You can submit an extension request here through [Flextension](https://forms.gle/jX8W6eX8YpTNnRV88). Please submit any extension requests before the assignment deadline. We will not approve extensions requested after the deadline for the assignment has passed. Also, because extensions are not guaranteed, it is in your best interest to submit at least 36 hours before the deadline, to ensure that there's plenty of time for you to attempt the assignment if your request isn't accepted.
 
 Making a private Ed post with an extension request does not guarantee you an extension. All extension requests must be approved for them to apply.
 
