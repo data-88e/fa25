@@ -38,7 +38,7 @@ You are not alone in this course; the staff and instructors are here to support 
 
 ## Office Hours
 
-The professor and course staff will hold office hours. See [the schedule](../schedule) and Ed for more information. You are welcome to show up to any and all office hours.
+The professor and course staff will hold office hours. See the calendar on course website for reference. 
 
 ## Labs
 
