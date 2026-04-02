@@ -8,6 +8,9 @@ seo:
   name: Data 88E
 ---
 
+{: .warning }
+⚠️ This content is archived as of March 2026 and is retained exclusively for reference. [Find current offerings.](https://data8.org/)
+
 # Data 88E: Economic Models
 
 {: .mb-2 }

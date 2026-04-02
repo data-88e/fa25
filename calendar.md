@@ -5,6 +5,9 @@ description: Class schedule.
 nav_order: 2
 ---
 
+{: .warning }
+⚠️ This content is archived as of March 2026 and is retained exclusively for reference. [Find current offerings.](https://data8.org/)
+
 # Calendar
 
 Please log in to your Berkeley account to view the calendar.
