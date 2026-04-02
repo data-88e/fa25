@@ -24,3 +24,14 @@ div.highlighter-rouge div.highlight {
 
 // Place all of your course-specific CSS here.
 @import './course_overrides';
+
+.warning a {
+  color: $warning-link-color;
+  text-decoration: underline;
+}
+
+/* Optional: Add a hover state for better UX */
+.warning a:hover {
+  color: $warning-link-hover-color;
+  text-decoration: none;
+}
